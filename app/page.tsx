@@ -236,7 +236,7 @@ export default function Home() {
             Agenda una consulta gratuita y descubre cómo podemos ayudarte a alcanzar tus objetivos
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="mailto:contacto@devautomation.com" className="bg-white hover:bg-slate-50 text-blue-600 px-8 py-4 rounded-full text-lg font-medium transition-all hover:shadow-lg hover:scale-105">
+            <a href="mailto:contacto@selfish.com" className="bg-white hover:bg-slate-50 text-blue-600 px-8 py-4 rounded-full text-lg font-medium transition-all hover:shadow-lg hover:scale-105">
               Contactar por Email
             </a>
             <a href="tel:+1234567890" className="bg-blue-500 hover:bg-blue-700 text-white px-8 py-4 rounded-full text-lg font-medium border-2 border-white transition-all">
@@ -253,10 +253,10 @@ export default function Home() {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-lg"></div>
-                <span className="text-xl font-bold text-white">DevAutomation</span>
+                <span className="text-xl font-bold text-white">Selfish</span>
               </div>
               <p className="text-slate-400">
-                Soluciones digitales innovadoras para impulsar tu negocio al siguiente nivel.
+                Desarrollo de software y automatización de procesos empresariales para impulsar tu negocio.
               </p>
             </div>
             <div>
@@ -270,14 +270,13 @@ export default function Home() {
             <div>
               <h4 className="text-white font-bold mb-4">Contacto</h4>
               <ul className="space-y-2">
-                <li>Email: contacto@devautomation.com</li>
-                <li>Tel: +52 123 456 7890</li>
-                <li>Ubicación: Ciudad de México</li>
+                <li>Email: contacto@selfish.com</li>
+                <li>Ubicación: Cienfuegos, Cuba</li>
               </ul>
             </div>
           </div>
           <div className="border-t border-slate-800 pt-8 text-center">
-            <p>&copy; 2025 DevAutomation. Todos los derechos reservados.</p>
+            <p>&copy; 2025 Selfish. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
