@@ -5,7 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/portfolio',
+  // Si tu repo se llama "tu-usuario.github.io", deja basePath comentado
+  // Si se llama otra cosa, descomenta y pon: basePath: '/nombre-del-repo',
 };
 
 export default nextConfig;
